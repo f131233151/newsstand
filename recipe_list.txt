@@ -1,1 +1,1 @@
-atlantic
+atlantic.recipe
